@@ -7,7 +7,7 @@
     "category": "shop by trip",
     "subcategory": ["city break & weekend trips", "universal travel"],
 	"subsub": ["shopping & lifestyle", "core essentials & basics"],
-    "target": ["best sellers"],
+    "target": ["best sellers", "new releases", "recommended"],
     "travelEssentials": [
         "travel essentials",
         "money, documents & security",
