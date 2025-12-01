@@ -7,8 +7,8 @@
     "category": "shop by trip",
     "subcategory": ["city break & weekend trips", "universal travel"],
 	"subsub": ["shopping & lifestyle", "core essentials & basics"],
-    "target": ["best sellers", "new releases", "recommended"],
-    "essentials": [
+    "target": ["best sellers"],
+    "travelEssentials": [
         "travel essentials",
         "money, documents & security",
         "tech, power & connectivity",
@@ -33,8 +33,8 @@
     "tripLength": [
         "shop by trip length",
 		"weekend",
-		"3–5 days",
-		"1 week"
+		"3–5 hari",
+		"1 minggu"
     ],
 	"sustainability": [
         "sustainable & ethical gear",
