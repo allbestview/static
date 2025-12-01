@@ -18,7 +18,9 @@
     "travelNeeds": [
         "shop by need",
         "luggage & bags",
-		"carry-on & short trip"
+		"carry-on & short trip",
+		"packing organizers",
+		"carry-all & foldable bags"
     ],
 	"travelTypes": [
         "shop by traveler",
@@ -33,8 +35,8 @@
     "tripLength": [
         "shop by trip length",
 		"weekend",
-		"3–5 hari",
-		"1 minggu"
+		"3–5 days",
+		"1 week"
     ],
 	"sustainability": [
         "sustainable & ethical gear",
